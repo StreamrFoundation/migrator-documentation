@@ -7,7 +7,7 @@ In a recent governance vote (SIP-1), DATA token holders approved a transition to
 
 - The old token will be renamed to XDATA, and the new token will inherit the DATA symbol.
 - Both the old and new tokens will co-exist for a while. The old tokens are destroyed when they are migrated and an equivalent amount of new tokens are released by the migration system.
-- For any remaining TRX ERC20 tokens that have not yet been migrated, we have decided to conduct the migration directly using **migration smart contract**, rather than using a migration user interface that is no longer supported. This makes the migration process for the remaining old Tron ERC20 token holders simple.
+- For any remaining XDATA tokens that have not yet been migrated, we have decided to conduct the migration directly using **migration smart contract**, rather than using a migration user interface that is no longer supported. This makes the migration process for the remaining old XDATA token holders simple.
 - This is a 1:1 swap, which means that anyone who holds the old XDATA token will receive the same amount of new DATA tokens.
 
 
